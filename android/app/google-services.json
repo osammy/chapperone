@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "607944101218",
+    "firebase_url": "https://chapperone-6a910.firebaseio.com",
+    "project_id": "chapperone-6a910",
+    "storage_bucket": "chapperone-6a910.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607944101218:android:893af752accc86f0b9f03b",
+        "android_client_info": {
+          "package_name": "com.chapperone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607944101218-q3qnrs7kqheeu0etfhum7mms1ahq8foi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chapperone",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "607944101218-kt964tl0kbi7b5qvpadoeatgn4l8g7dv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTUT5K3MaPQ8xDHI3qE6H_mQadAkWW78Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607944101218-kt964tl0kbi7b5qvpadoeatgn4l8g7dv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
